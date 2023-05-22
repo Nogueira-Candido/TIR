@@ -1,0 +1,14 @@
+{
+    "Url": "http://localhost:4321/",
+    "Browser": "Firefox",
+    "Environment": "TOTVS1212210",
+    "Language": "pt-br",
+    "User": "admin",
+    "Password": "",
+    "Headless": false,
+    "LogInfoConfig": true,
+    "Release": "12.1.2210",
+    "TopDataBase": "1111",
+    "Lib": "1111",
+    "Build": "1111"
+}
